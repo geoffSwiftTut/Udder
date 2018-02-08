@@ -23,7 +23,7 @@ class ViewController: UIViewController {
       //
    }
    override func viewDidDisappear(_ animated: Bool) {
-      //
+      //this is the disappear text
    }
 }
 
